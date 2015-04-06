@@ -1,4 +1,4 @@
-Lasercut Enlcosure Prototyping System
+Lasercut Enclosure Prototyping System
 =====================================
 
 ![Example](example.jpg?raw=true "Examples")
